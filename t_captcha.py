@@ -21,9 +21,6 @@ from utils import easing
 
 
 class TCaptcha(object):
-    """
-    腾讯防水墙滑动验证码破解
-    """
 
     @staticmethod
     def hack(driver):
